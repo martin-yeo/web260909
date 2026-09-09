@@ -1,4 +1,4 @@
-# [web260909.netlify.app]{web260909.netlify.app}
+[web260909.netlify.app](web260909.netlify.app)
 
 # 오늘의 주요 수업 내용
 

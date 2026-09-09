@@ -1,4 +1,4 @@
-[https://web260909.netlify.app](https://web260909.netlify.app)
+[내가 만든 사이트로 가기](https://web260909.netlify.app)
 
 # 오늘의 주요 수업 내용
 
